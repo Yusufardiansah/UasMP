@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "711426311932",
+    "project_id": "autentikasi-firebase-64e30",
+    "storage_bucket": "autentikasi-firebase-64e30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711426311932:android:161f0998caf8b520327979",
+        "android_client_info": {
+          "package_name": "com.UasMp.uas_mp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711426311932-t9lbhmka80eqnmlc0tejo1k1vvmnkvs0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.UasMp.uas_mp",
+            "certificate_hash": "e7fb9d45879f5b089915214288c5921d333a742c"
+          }
+        },
+        {
+          "client_id": "711426311932-ejm7l2kr6aljlmiop5cd0aq9thos135j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF8uZzlh7GlcQg1ropmERc5_hJDgSnL34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "711426311932-ejm7l2kr6aljlmiop5cd0aq9thos135j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
